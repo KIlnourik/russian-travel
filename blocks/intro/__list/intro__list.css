@@ -4,3 +4,8 @@
   margin-top: 33px;
   padding: 0;
 }
+@media screen and (max-width: 767px) {
+  .intro__list {
+    margin-top: 34px;
+  }
+}
