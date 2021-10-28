@@ -2,6 +2,7 @@
   margin-left: 18px;
   text-decoration: none;
   color: #fff;
-  font-size: calc((24 / 16)*1rem);
+  font-size: 24px;
+  line-height: 28px;
   opacity: 0.24;
 }

@@ -4,8 +4,8 @@
   background-color: #2a2c2f;
   font-family: "Inter", "Arial", sans-serif;
   color: white;
-  -webkit-font-smothing: antializsed;
-  -mox-osx-font-smothing: grayscale;
+  -webkit-font-smothing: antialiased;
+  -moz-osx-font-smothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;

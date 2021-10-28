@@ -1,0 +1,7 @@
+.footer__links-item {
+  margin: 0 9px;
+  padding: 0;
+}
+.footer__links-item:first-of-type {
+  margin-left: 0;
+}
