@@ -12,4 +12,4 @@
 5. Адаптивная верстка
 6. Немного резиновой верстки
 
-## Ссылка на [GithubPages]()
+## Ссылка на [GithubPages](https://kilnourik.github.io/russian-travel/)
