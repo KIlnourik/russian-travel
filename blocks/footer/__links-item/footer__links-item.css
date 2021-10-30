@@ -5,7 +5,7 @@
 .footer__links-item:first-of-type {
   margin-left: 0;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .footer__links-item {
     margin: 16px 0;
   }

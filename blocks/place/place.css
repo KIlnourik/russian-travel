@@ -14,13 +14,13 @@
 .place:last-of-type {
   margin-bottom: 0;
 }
-@media screen and (min-width: 1024px) and (max-width: 1280px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
   .place {
     grid-template-columns: 440px 456px;
     column-gap: 32px;
   }
 }
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
   .place {
     margin: 0 auto;
     margin-top: 73px;
@@ -28,7 +28,7 @@
     column-gap: 28px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .place {
     grid-template-columns: 100vw;
     gap: 30px;
