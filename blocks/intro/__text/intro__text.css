@@ -4,15 +4,11 @@
   margin-bottom: 0;
   font-size: 16px;
   font-weight: normal;
-  line-height: 27px;
+  line-height: 26px;
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .intro__text {
     max-width: 720px;
   }
 }
-@media screen and (max-width: 767px) {
-  .intro__text {
-    line-height: 27px;
-  }
-}
+

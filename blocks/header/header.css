@@ -4,7 +4,7 @@
   align-items: flex-end;
   padding: 28px 48px 0;
 }
-@media screen and (min-width: 768px) and (max-width: 1023px)
+@media screen and (min-width: 768px) and (max-width: 999px)
 {
   .header {
     padding: 28px 24px 0;
